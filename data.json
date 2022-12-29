@@ -1,2 +1,1 @@
-[{"fname":"akshay","lname":"kumar","department":"sales","key":1,"age":15,"dob":"13/10/2000"},
-{"fname":"ajay","lname":"kumar","department":"sales","key":2,"age":15,"dob":"13/10/2000"}]
+[{"fname":"akshay","lname":"kumar","department":"sales","key":1,"age":15,"dob":"13/10/2000"},{"fname":"ajay","lname":"kumar","department":"sales","key":2,"age":15,"dob":"13/10/2000"},{"fname":"ajay","lname":"kumar","department":"sales","key":3,"age":15,"dob":"13/10/2000"},{"fname":"ajay","lname":"Sharma","age":22,"dob":"30/12/2000","department":"IT"}]
